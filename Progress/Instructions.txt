@@ -1,0 +1,7 @@
+Draw a: 
+- Character
+- Food
+- Building
+- Scene
+
+And redraw/draw more every once in a while to check how much you've progressed
