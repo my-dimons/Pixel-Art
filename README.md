@@ -2,7 +2,7 @@ This is a repository that stores most of the pixel art I save that isn't being u
 
 NOTES:
 - most of these sprites are scaled up to be easier to view on github
-- ALL sprites in the "Game Assets" folder is scaled to be properly used for games (NOT SCALED UP)
+- ALL sprites in the "Game Assets" folder is scaled to be properly used for games (meaning sprites are NOT SCALED UP)
 - this repository is (mostly) for saving my progress as a pixel artist, so I can see how much I've improved, and a place to try out new things
 
 
