@@ -5,7 +5,7 @@ NOTES:
 - ALL sprites in the "Game Assets" folder is scaled to be properly used for games (NOT SCALED UP)
 - this repository is (mostly) for saving my progress as a pixel artist, so I can see how much I've improved, and a place to try out new things
 
-=
+
 Feel free to use any of these sprites
 =
 You can use these sprites anywhere you want, I don't care. These are mostly sprites I use for testing or trying things out. most of these sprites aren't going to be used by me, so they should probably be used by at least someone
